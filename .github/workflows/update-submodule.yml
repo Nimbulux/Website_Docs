@@ -1,0 +1,40 @@
+name: Update Submodule Reference
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:        # 允许手动触发
+
+concurrency:
+  group: build-and-sync
+  cancel-in-progress: false
+
+jobs:
+  update-submodule:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout parent repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.SUBMODULE_UPDATE_TOKEN }}   # 使用你的 PAT
+          submodules: recursive                           # 递归拉取子模块
+          fetch-depth: 0                                  # 拉取完整历史，便于比较
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Update submodule to latest commit
+        run: |
+          git submodule update --remote --recursive
+
+      - name: Commit and push if changed
+        run: |
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: auto-update submodule reference"
+            git push
+          fi
