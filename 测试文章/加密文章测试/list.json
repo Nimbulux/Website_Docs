@@ -1,0 +1,15 @@
+[
+  {
+    "type": "article",
+    "title": "加密文章测试",
+    "excerpt": "测试密码用的 114514",
+    "date": "2026-09-27T08:00:00+08:00",
+    "updated": "2026-09-27T02:29:58+08:00",
+    "tags": [
+      "测试"
+    ],
+    "reading_time": 0,
+    "encrypted": true,
+    "file": "page.enc"
+  }
+]

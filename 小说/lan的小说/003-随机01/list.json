@@ -1,0 +1,37 @@
+[
+  {
+    "type": "mixed",
+    "title": "003-随机01",
+    "date": "",
+    "excerpt": "随机吧小说的第一本",
+    "tags": [
+      "文件夹"
+    ],
+    "encrypted": false,
+    "children": [
+      {
+        "type": "article",
+        "title": "从第四声钟里活下来之后的第七天",
+        "date": "2026-08-21T16:57:00.000Z",
+        "excerpt": "第四声钟里活下来之后的第七天，我和沈青梧又见面了。",
+        "tags": [
+          "随机吧小说"
+        ],
+        "encrypted": false,
+        "file": "page.md"
+      },
+      {
+        "type": "article",
+        "title": "随机吧小说",
+        "date": "2026-08-19T13:39:00.000Z",
+        "excerpt": "我第一次见沈青梧，是在车祸现场。",
+        "tags": [
+          "随机吧小说"
+        ],
+        "encrypted": false,
+        "file": "page.md"
+      }
+    ],
+    "file": "page.md"
+  }
+]
