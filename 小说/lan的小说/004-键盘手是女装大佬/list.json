@@ -1,6 +1,5 @@
 [
   {
-    "type": "mixed",
     "title": "004-键盘手是女装大佬",
     "date": "",
     "tags": [
@@ -8,9 +7,10 @@
     ],
     "excerpt": "随机吧小说第二本",
     "encrypted": false,
+    "type": "mixed",
+    "slug": "004-键盘手是女装大佬",
     "children": [
       {
-        "type": "article",
         "title": "蓝裙子",
         "date": "2026-08-31T14:58:00.000Z",
         "tags": [
@@ -19,11 +19,12 @@
           "随机吧小说"
         ],
         "excerpt": "闹钟响起来的时候，我在黑暗中睁着眼睛，早就醒了。",
+        "type": "article",
+        "slug": "蓝裙子",
         "encrypted": false,
         "file": "page.md"
       },
       {
-        "type": "article",
         "title": "午休、食堂",
         "date": "2026-08-31T14:57:00.000Z",
         "tags": [
@@ -32,11 +33,12 @@
           "随机吧小说"
         ],
         "excerpt": "周二晚上，我刚做完英语作业，正准备把最后一道翻译题收尾，手机在桌上震了一下。",
+        "type": "article",
+        "slug": "午休、食堂",
         "encrypted": false,
         "file": "page.md"
       },
       {
-        "type": "article",
         "title": "购物中心",
         "date": "2026-08-31T10:48:00.000Z",
         "excerpt": "周一早晨的闹钟响起来的时候，我正梦到自己在弹一架没有声音的钢琴。",
@@ -45,11 +47,12 @@
           "乐队",
           "随机吧小说"
         ],
+        "type": "article",
+        "slug": "购物中心",
         "encrypted": false,
         "file": "page.md"
       },
       {
-        "type": "article",
         "title": "女子乐队",
         "date": "2026-08-30T16:15:00.000Z",
         "tags": [
@@ -58,11 +61,12 @@
           "随机吧小说"
         ],
         "excerpt": "我醒了。天还没有完全亮透，房间里的光线是青白色的，带着一种清晨特有的凉意。",
+        "type": "article",
+        "slug": "女子乐队",
         "encrypted": false,
         "file": "page.md"
       },
       {
-        "type": "article",
         "title": "键盘手是女装大佬",
         "date": "2026-08-30T12:46:00.000Z",
         "excerpt": "四月的东京，樱花已经落得差不多了。",
@@ -71,6 +75,8 @@
           "乐队",
           "随机吧小说"
         ],
+        "type": "article",
+        "slug": "键盘手是女装大佬",
         "encrypted": false,
         "file": "page.md"
       }

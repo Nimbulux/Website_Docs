@@ -2,9 +2,9 @@
   {
     "type": "folder",
     "title": "网页相关",
+    "slug": "网页相关",
     "children": [
       {
-        "type": "article",
         "title": "关于网页元素的感悟",
         "excerpt": "在写这个网站的时候对网页三大件配合的感悟",
         "date": "2026-07-09T23:09:30Z",
@@ -15,6 +15,8 @@
           "CSS",
           "JS"
         ],
+        "type": "article",
+        "slug": "对于元素的感悟",
         "encrypted": false,
         "file": "page.md"
       }

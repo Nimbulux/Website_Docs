@@ -1,6 +1,5 @@
 [
   {
-    "type": "article",
     "title": "沈知意又醒了",
     "date": "2026-08-07T13:38:00.000Z",
     "tags": [
@@ -9,6 +8,8 @@
       "傲娇"
     ],
     "excerpt": "沈知意又醒了。",
+    "type": "article",
+    "slug": "沈知意又醒了",
     "encrypted": false,
     "file": "page.md"
   }

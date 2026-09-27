@@ -1,6 +1,5 @@
 [
   {
-    "type": "article",
     "title": "午休、食堂",
     "date": "2026-08-31T14:57:00.000Z",
     "tags": [
@@ -9,6 +8,8 @@
       "随机吧小说"
     ],
     "excerpt": "周二晚上，我刚做完英语作业，正准备把最后一道翻译题收尾，手机在桌上震了一下。",
+    "type": "article",
+    "slug": "午休、食堂",
     "encrypted": false,
     "file": "page.md"
   }

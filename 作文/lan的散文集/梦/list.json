@@ -1,6 +1,5 @@
 [
   {
-    "type": "article",
     "title": "梦",
     "excerpt": "睡觉这件事，一半是为了休息，一半是为了做梦。",
     "date": "2026-09-20T23:00:00+08:00",
@@ -11,6 +10,8 @@
     ],
     "reading_time": 0,
     "encrypted": false,
+    "type": "article",
+    "slug": "梦",
     "file": "page.md"
   }
 ]

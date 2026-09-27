@@ -1,12 +1,13 @@
 [
   {
-    "type": "article",
     "title": "从第四声钟里活下来之后的第七天",
     "date": "2026-08-21T16:57:00.000Z",
     "excerpt": "第四声钟里活下来之后的第七天，我和沈青梧又见面了。",
     "tags": [
       "随机吧小说"
     ],
+    "type": "article",
+    "slug": "从第四声钟里活下来之后的第七天",
     "encrypted": false,
     "file": "page.md"
   }

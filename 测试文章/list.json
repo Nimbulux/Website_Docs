@@ -2,9 +2,9 @@
   {
     "type": "folder",
     "title": "测试文章",
+    "slug": "测试文章",
     "children": [
       {
-        "type": "article",
         "title": "加密文章测试",
         "excerpt": "测试密码用的 114514",
         "date": "2026-09-27T08:00:00+08:00",
@@ -14,10 +14,11 @@
         ],
         "reading_time": 0,
         "encrypted": true,
+        "type": "article",
+        "slug": "加密文章测试",
         "file": "page.enc"
       },
       {
-        "type": "article",
         "title": "代码高亮测试",
         "excerpt": "测试测试",
         "date": "0001-01-01T00:00:00Z",
@@ -26,6 +27,8 @@
           "测试"
         ],
         "reading_time": 11,
+        "type": "article",
+        "slug": "代码高亮测试",
         "encrypted": false,
         "file": "page.md"
       }

@@ -1,25 +1,27 @@
 [
   {
-    "type": "mixed",
     "title": "小说",
     "excerpt": "所有的小说",
     "date": "2026-07-30T22:57:30Z",
     "tags": [
       "文件夹"
     ],
+    "type": "mixed",
+    "slug": "小说",
     "children": [
       {
         "type": "folder",
         "title": "lan的小说",
+        "slug": "lan的小说",
         "children": [
           {
-            "type": "folder",
             "title": "001-甜同甜",
             "date": "2026-09-27",
             "encrypted": false,
+            "type": "folder",
+            "slug": "002-甜同甜",
             "children": [
               {
-                "type": "article",
                 "title": "凛把小遥放在床上的动作很轻",
                 "excerpt": "凛把小遥放在床上的动作很轻，像是把她当成一件需要用全部注意力来对待的珍贵瓷器。",
                 "date": "2026-08-02T18:57:00.000Z",
@@ -27,11 +29,12 @@
                   "双女主",
                   "甜同甜"
                 ],
+                "type": "article",
+                "slug": "凛把小遥放在床上的动作很轻",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "综艺节目的片尾字幕从屏幕底部缓缓",
                 "excerpt": "综艺节目的片尾字幕从屏幕底部缓缓升起的时候，小遥已经在凛的大腿上睡着了。",
                 "date": "2026-08-01T09:37:00.000Z",
@@ -39,11 +42,12 @@
                   "双女主",
                   "甜同甜"
                 ],
+                "type": "article",
+                "slug": "综艺节目的片尾字幕从屏幕底部缓缓",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "小遥在黑暗中睁着眼睛",
                 "excerpt": "小遥在黑暗中睁着眼睛。",
                 "date": "2026-07-31T08:32:00.000Z",
@@ -51,11 +55,12 @@
                   "双女主",
                   "甜同甜"
                 ],
+                "type": "article",
+                "slug": "小遥在黑暗中睁着眼睛",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "九月的第二个周末",
                 "excerpt": "九月的第二个周末，大雨之后天空干净得像是被人用湿布反复擦过的窗玻璃。",
                 "date": "2026-07-16T13:07:00.000Z",
@@ -63,11 +68,12 @@
                   "双女主",
                   "甜同甜"
                 ],
+                "type": "article",
+                "slug": "九月的第二个周末",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "月がきれいですね",
                 "excerpt": "九月初的东京，雨季的尾巴还拖在空气里，迟迟不肯走。",
                 "date": "2026-07-14T22:50:00.000Z",
@@ -75,11 +81,12 @@
                   "双女主",
                   "甜同甜"
                 ],
+                "type": "article",
+                "slug": "月がきれいですね",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "原宿站前",
                 "excerpt": "原宿站前，竹下口的闸机外面，周日的人潮还没有到最汹涌的时候，但已经足够让狭窄的竹下通看起来像一条被糖果和广告牌塞满的河流。",
                 "date": "2026-07-14T21:43:00.000Z",
@@ -87,11 +94,12 @@
                   "双女主",
                   "甜同甜"
                 ],
+                "type": "article",
+                "slug": "原宿站前",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "手机响的时候",
                 "excerpt": "手机响的时候，凛正在電車上。",
                 "date": "2026-07-13T23:26:00.000Z",
@@ -99,11 +107,12 @@
                   "双女主",
                   "甜同甜"
                 ],
+                "type": "article",
+                "slug": "手机响的时候",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "周一早上的光线和周日不太一样",
                 "excerpt": "周一早上的光线和周日不太一样。",
                 "date": "2026-07-12T22:52:00.000Z",
@@ -111,11 +120,12 @@
                   "双女主",
                   "甜同甜"
                 ],
+                "type": "article",
+                "slug": "周一早上的光线和周日不太一样",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "周日早上",
                 "excerpt": "周日早上，凛是被自己的心跳声吵醒的。",
                 "date": "2026-07-10T01:02:00.000Z",
@@ -123,11 +133,12 @@
                   "双女主",
                   "甜同甜"
                 ],
+                "type": "article",
+                "slug": "周日早上",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "周六下午",
                 "excerpt": "周六下午，凛在客厅的こたつ里改论文的时候，小遥从便利店下班回来了。",
                 "date": "2026-07-08T13:16:00.000Z",
@@ -135,11 +146,12 @@
                   "双女主",
                   "甜同甜"
                 ],
+                "type": "article",
+                "slug": "周六下午",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "从卡拉OK出来的时候",
                 "excerpt": "从卡拉OK出来的时候，天边已经开始泛白了。",
                 "date": "2026-07-07T12:43:00.000Z",
@@ -147,11 +159,12 @@
                   "双女主",
                   "甜同甜"
                 ],
+                "type": "article",
+                "slug": "从卡拉OK出来的时候",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "凛的手机震了两下的时候",
                 "excerpt": "凛的手机震了两下的时候，她正把最后一只袜子从晾衣架上扯下来。",
                 "date": "2026-07-05T23:58:00.000Z",
@@ -159,13 +172,14 @@
                   "双女主",
                   "甜同甜"
                 ],
+                "type": "article",
+                "slug": "凛的手机震了两下的时候",
                 "encrypted": false,
                 "file": "page.md"
               }
             ]
           },
           {
-            "type": "mixed",
             "title": "000-无名小说1[弃坑]",
             "excerpt": "一个最带有文风的",
             "date": "",
@@ -173,9 +187,10 @@
               "文件夹"
             ],
             "encrypted": false,
+            "type": "mixed",
+            "slug": "000-无名小说1-弃坑",
             "children": [
               {
-                "type": "article",
                 "title": "这是逃亡的第一个夜晚",
                 "excerpt": "这是逃亡的第一个夜晚。",
                 "date": "2026-06-27T01:30:00.000Z",
@@ -183,11 +198,12 @@
                   "弃坑",
                   "无名小说1"
                 ],
+                "type": "article",
+                "slug": "我跨出空间裂隙的那一瞬间",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "这是逃亡的第一个夜晚",
                 "excerpt": "这是逃亡的第一个夜晚。",
                 "date": "2026-06-27T01:30:00.000Z",
@@ -195,11 +211,12 @@
                   "弃坑",
                   "无名小说1"
                 ],
+                "type": "article",
+                "slug": "这是逃亡的第一个夜晚",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "我不知道",
                 "excerpt": "夜如期而至，裹着雨后的潮气，从窗缝里渗进来。",
                 "date": "2026-06-26T01:08:00.000Z",
@@ -207,11 +224,12 @@
                   "弃坑",
                   "无名小说1"
                 ],
+                "type": "article",
+                "slug": "我不知道",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "夜如期而至",
                 "excerpt": "夜如期而至，裹着雨后的潮气，从窗缝里渗进来。",
                 "date": "2026-06-25T21:41:00.000Z",
@@ -219,6 +237,8 @@
                   "弃坑",
                   "无名小说1"
                 ],
+                "type": "article",
+                "slug": "夜如期而至",
                 "encrypted": false,
                 "file": "page.md"
               }
@@ -228,9 +248,9 @@
           {
             "type": "folder",
             "title": "001-猫VS木头",
+            "slug": "001-猫VS木头",
             "children": [
               {
-                "type": "article",
                 "title": "木头上怎么长猫了",
                 "date": "2026-08-16T03:04:00.000Z",
                 "excerpt": "沈知意又哭了。她自己不知道。\n",
@@ -239,11 +259,12 @@
                   "哈气",
                   "傲娇"
                 ],
+                "type": "article",
+                "slug": "木头上怎么长猫了",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "木头上怎么能长猫呢",
                 "date": "2026-08-15T15:29:00.000Z",
                 "excerpt": "木头上怎么能长猫呢",
@@ -252,11 +273,12 @@
                   "哈气",
                   "傲娇"
                 ],
+                "type": "article",
+                "slug": "木头上怎么能长猫呢",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "第二天早上",
                 "date": "2026-08-15T01:15:00.000Z",
                 "excerpt": "第二天早上，沈知意是被阳光晃醒的。",
@@ -265,11 +287,12 @@
                   "哈气",
                   "傲娇"
                 ],
+                "type": "article",
+                "slug": "第二天早上",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "晚上九点",
                 "date": "2026-08-07T15:00:00.000Z",
                 "excerpt": "晚上九点，例行号脉结束后，沈知意去浴室洗了澡。",
@@ -278,11 +301,12 @@
                   "哈气",
                   "傲娇"
                 ],
+                "type": "article",
+                "slug": "晚上九点",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "沈知意又醒了",
                 "date": "2026-08-07T13:38:00.000Z",
                 "tags": [
@@ -291,11 +315,12 @@
                   "傲娇"
                 ],
                 "excerpt": "沈知意又醒了。",
+                "type": "article",
+                "slug": "沈知意又醒了",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "六月的苏州",
                 "date": "2026-08-04T12:39:00.000Z",
                 "tags": [
@@ -304,13 +329,14 @@
                   "傲娇"
                 ],
                 "excerpt": "六月的苏州，梅雨季赖着不走。雨从午后开始落，到黄昏也没停。",
+                "type": "article",
+                "slug": "六月的苏州",
                 "encrypted": false,
                 "file": "page.md"
               }
             ]
           },
           {
-            "type": "mixed",
             "title": "003-随机01",
             "date": "",
             "excerpt": "随机吧小说的第一本",
@@ -318,26 +344,30 @@
               "文件夹"
             ],
             "encrypted": false,
+            "type": "mixed",
+            "slug": "003-随机01",
             "children": [
               {
-                "type": "article",
                 "title": "从第四声钟里活下来之后的第七天",
                 "date": "2026-08-21T16:57:00.000Z",
                 "excerpt": "第四声钟里活下来之后的第七天，我和沈青梧又见面了。",
                 "tags": [
                   "随机吧小说"
                 ],
+                "type": "article",
+                "slug": "从第四声钟里活下来之后的第七天",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "随机吧小说",
                 "date": "2026-08-19T13:39:00.000Z",
                 "excerpt": "我第一次见沈青梧，是在车祸现场。",
                 "tags": [
                   "随机吧小说"
                 ],
+                "type": "article",
+                "slug": "随机吧小说",
                 "encrypted": false,
                 "file": "page.md"
               }
@@ -345,7 +375,6 @@
             "file": "page.md"
           },
           {
-            "type": "mixed",
             "title": "004-键盘手是女装大佬",
             "date": "",
             "tags": [
@@ -353,9 +382,10 @@
             ],
             "excerpt": "随机吧小说第二本",
             "encrypted": false,
+            "type": "mixed",
+            "slug": "004-键盘手是女装大佬",
             "children": [
               {
-                "type": "article",
                 "title": "蓝裙子",
                 "date": "2026-08-31T14:58:00.000Z",
                 "tags": [
@@ -364,11 +394,12 @@
                   "随机吧小说"
                 ],
                 "excerpt": "闹钟响起来的时候，我在黑暗中睁着眼睛，早就醒了。",
+                "type": "article",
+                "slug": "蓝裙子",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "午休、食堂",
                 "date": "2026-08-31T14:57:00.000Z",
                 "tags": [
@@ -377,11 +408,12 @@
                   "随机吧小说"
                 ],
                 "excerpt": "周二晚上，我刚做完英语作业，正准备把最后一道翻译题收尾，手机在桌上震了一下。",
+                "type": "article",
+                "slug": "午休、食堂",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "购物中心",
                 "date": "2026-08-31T10:48:00.000Z",
                 "excerpt": "周一早晨的闹钟响起来的时候，我正梦到自己在弹一架没有声音的钢琴。",
@@ -390,11 +422,12 @@
                   "乐队",
                   "随机吧小说"
                 ],
+                "type": "article",
+                "slug": "购物中心",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "女子乐队",
                 "date": "2026-08-30T16:15:00.000Z",
                 "tags": [
@@ -403,11 +436,12 @@
                   "随机吧小说"
                 ],
                 "excerpt": "我醒了。天还没有完全亮透，房间里的光线是青白色的，带着一种清晨特有的凉意。",
+                "type": "article",
+                "slug": "女子乐队",
                 "encrypted": false,
                 "file": "page.md"
               },
               {
-                "type": "article",
                 "title": "键盘手是女装大佬",
                 "date": "2026-08-30T12:46:00.000Z",
                 "excerpt": "四月的东京，樱花已经落得差不多了。",
@@ -416,6 +450,8 @@
                   "乐队",
                   "随机吧小说"
                 ],
+                "type": "article",
+                "slug": "键盘手是女装大佬",
                 "encrypted": false,
                 "file": "page.md"
               }

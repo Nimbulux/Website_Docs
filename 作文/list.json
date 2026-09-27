@@ -1,21 +1,22 @@
 [
   {
-    "type": "mixed",
     "title": "作文",
     "excerpt": "我自己或结合AI写下的作文",
     "date": "2026-08-15T16:49:30Z",
     "tags": [
       "文件夹"
     ],
+    "type": "mixed",
+    "slug": "作文",
     "children": [
       {
-        "type": "mixed",
         "title": "lan的杂念集",
         "date": "2026-09-27",
         "encrypted": false,
+        "type": "mixed",
+        "slug": "lan的散文集",
         "children": [
           {
-            "type": "article",
             "title": "痛苦",
             "excerpt": "我不大愿意承认自己是个敏感的人。",
             "date": "2026-09-23T16:04:00+08:00",
@@ -26,10 +27,11 @@
             ],
             "reading_time": 0,
             "encrypted": false,
+            "type": "article",
+            "slug": "痛苦",
             "file": "page.md"
           },
           {
-            "type": "article",
             "title": "酒",
             "excerpt": "第一次饮酒，印象坏极了。",
             "date": "2026-09-21T23:46:00+08:00",
@@ -40,10 +42,11 @@
             ],
             "reading_time": 0,
             "encrypted": false,
+            "type": "article",
+            "slug": "酒",
             "file": "page.md"
           },
           {
-            "type": "article",
             "title": "胃疼",
             "excerpt": "疼这件事，久了，便成了熟人。",
             "date": "2026-09-21T23:46:00+08:00",
@@ -54,10 +57,11 @@
             ],
             "reading_time": 0,
             "encrypted": false,
+            "type": "article",
+            "slug": "胃疼",
             "file": "page.md"
           },
           {
-            "type": "article",
             "title": "梦",
             "excerpt": "睡觉这件事，一半是为了休息，一半是为了做梦。",
             "date": "2026-09-20T23:00:00+08:00",
@@ -68,10 +72,11 @@
             ],
             "reading_time": 0,
             "encrypted": false,
+            "type": "article",
+            "slug": "梦",
             "file": "page.md"
           },
           {
-            "type": "article",
             "title": "失眠",
             "excerpt": "熬夜和失眠，是两码事。",
             "date": "2026-09-20T23:00:00+08:00",
@@ -82,10 +87,11 @@
             ],
             "reading_time": 0,
             "encrypted": false,
+            "type": "article",
+            "slug": "失眠",
             "file": "page.md"
           },
           {
-            "type": "article",
             "title": "早餐",
             "excerpt": "小时候，早餐是逃不掉的。",
             "date": "2026-09-20T22:53:00+08:00",
@@ -96,10 +102,11 @@
             ],
             "reading_time": 0,
             "encrypted": false,
+            "type": "article",
+            "slug": "早餐",
             "file": "page.md"
           },
           {
-            "type": "article",
             "title": "谦虚",
             "excerpt": "关于谦虚写《杂念集》第一篇，我想写谦虚。",
             "date": "2026-09-20T22:43:00+08:00",
@@ -110,30 +117,34 @@
             ],
             "reading_time": 0,
             "encrypted": false,
+            "type": "article",
+            "slug": "谦虚",
             "file": "page.md"
           }
         ],
         "file": "page.md"
       },
       {
-        "type": "article",
         "title": "辙痕与星轨之间",
         "date": "2026-08-13T20:04:00.000Z",
         "excerpt": "面对脚下的路，我们应作何选择",
         "tags": [
           "作文"
         ],
+        "type": "article",
+        "slug": "辙痕与星轨之间",
         "encrypted": false,
         "file": "page.md"
       },
       {
-        "type": "article",
         "title": "一瞬成泉",
         "date": "2026-08-09T18:44:00.000Z",
         "excerpt": "面对人生须臾我们应该如何选择",
         "tags": [
           "作文"
         ],
+        "type": "article",
+        "slug": "一瞬成泉",
         "encrypted": false,
         "file": "page.md"
       }

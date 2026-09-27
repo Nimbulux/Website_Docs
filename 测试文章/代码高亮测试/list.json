@@ -1,6 +1,5 @@
 [
   {
-    "type": "article",
     "title": "代码高亮测试",
     "excerpt": "测试测试",
     "date": "0001-01-01T00:00:00Z",
@@ -9,6 +8,8 @@
       "测试"
     ],
     "reading_time": 11,
+    "type": "article",
+    "slug": "代码高亮测试",
     "encrypted": false,
     "file": "page.md"
   }

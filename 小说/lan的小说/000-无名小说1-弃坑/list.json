@@ -1,6 +1,5 @@
 [
   {
-    "type": "mixed",
     "title": "000-无名小说1[弃坑]",
     "excerpt": "一个最带有文风的",
     "date": "",
@@ -8,9 +7,10 @@
       "文件夹"
     ],
     "encrypted": false,
+    "type": "mixed",
+    "slug": "000-无名小说1-弃坑",
     "children": [
       {
-        "type": "article",
         "title": "这是逃亡的第一个夜晚",
         "excerpt": "这是逃亡的第一个夜晚。",
         "date": "2026-06-27T01:30:00.000Z",
@@ -18,11 +18,12 @@
           "弃坑",
           "无名小说1"
         ],
+        "type": "article",
+        "slug": "我跨出空间裂隙的那一瞬间",
         "encrypted": false,
         "file": "page.md"
       },
       {
-        "type": "article",
         "title": "这是逃亡的第一个夜晚",
         "excerpt": "这是逃亡的第一个夜晚。",
         "date": "2026-06-27T01:30:00.000Z",
@@ -30,11 +31,12 @@
           "弃坑",
           "无名小说1"
         ],
+        "type": "article",
+        "slug": "这是逃亡的第一个夜晚",
         "encrypted": false,
         "file": "page.md"
       },
       {
-        "type": "article",
         "title": "我不知道",
         "excerpt": "夜如期而至，裹着雨后的潮气，从窗缝里渗进来。",
         "date": "2026-06-26T01:08:00.000Z",
@@ -42,11 +44,12 @@
           "弃坑",
           "无名小说1"
         ],
+        "type": "article",
+        "slug": "我不知道",
         "encrypted": false,
         "file": "page.md"
       },
       {
-        "type": "article",
         "title": "夜如期而至",
         "excerpt": "夜如期而至，裹着雨后的潮气，从窗缝里渗进来。",
         "date": "2026-06-25T21:41:00.000Z",
@@ -54,6 +57,8 @@
           "弃坑",
           "无名小说1"
         ],
+        "type": "article",
+        "slug": "夜如期而至",
         "encrypted": false,
         "file": "page.md"
       }

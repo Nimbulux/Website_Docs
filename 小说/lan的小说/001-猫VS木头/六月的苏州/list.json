@@ -1,6 +1,5 @@
 [
   {
-    "type": "article",
     "title": "六月的苏州",
     "date": "2026-08-04T12:39:00.000Z",
     "tags": [
@@ -9,6 +8,8 @@
       "傲娇"
     ],
     "excerpt": "六月的苏州，梅雨季赖着不走。雨从午后开始落，到黄昏也没停。",
+    "type": "article",
+    "slug": "六月的苏州",
     "encrypted": false,
     "file": "page.md"
   }

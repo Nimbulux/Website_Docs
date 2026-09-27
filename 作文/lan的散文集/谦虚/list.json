@@ -1,6 +1,5 @@
 [
   {
-    "type": "article",
     "title": "谦虚",
     "excerpt": "关于谦虚写《杂念集》第一篇，我想写谦虚。",
     "date": "2026-09-20T22:43:00+08:00",
@@ -11,6 +10,8 @@
     ],
     "reading_time": 0,
     "encrypted": false,
+    "type": "article",
+    "slug": "谦虚",
     "file": "page.md"
   }
 ]
